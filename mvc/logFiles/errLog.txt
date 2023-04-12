@@ -1,0 +1,11 @@
+20230208	18:58:58	6a143c9a-7738-494c-9236-2f1a5fc80955	Error : Not Allowed by CORS
+20230208	18:59:34	a65a3731-9c95-43fe-87b9-b0a9bbaf7393	Error : Not Allowed by CORS
+20230208	20:00:22	cfe3086a-3c83-4cdf-b8c4-6ffc9499127f	Error : ENOENT: no such file or directory, stat 'C:\Users\hp\Documents\Express JS\routers\routes\views\index.html'
+20230209	19:17:49	c7b97a14-e567-4fc1-9b7f-b443ac7fe32d	TypeError : Cannot read properties of undefined (reading 'id')
+20230209	19:20:01	f3e544bb-cf7c-4cbf-9b8b-ed90a723ef03	TypeError : Cannot read properties of undefined (reading 'id')
+20230209	19:36:31	77e25fbc-bdba-4fd7-8141-87b48d4a6f84	SyntaxError : Unexpected string in JSON at position 28
+20230209	19:52:59	480b5af5-5f64-4745-b49f-ba0033dea4cf	TypeError : req.json is not a function
+20230209	20:04:24	fff29ec8-4d3b-4596-9062-33c2dfbefa34	TypeError : Cannot set properties of undefined (setting 'lastname')
+20230209	20:07:33	2aead047-6b44-4bd9-90fa-b4a053d47141	TypeError : req.json is not a function
+20230209	20:14:42	6ad28478-c0c1-40d7-8bab-0fadc89cf637	SyntaxError : Unexpected string in JSON at position 28
+20230209	23:10:29	6b3513fc-eb6c-479d-9cb8-c8769730ba9d	SyntaxError : Unexpected string in JSON at position 28

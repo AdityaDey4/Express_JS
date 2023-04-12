@@ -1,0 +1,15 @@
+20230207	21:18:13	029665a2-1aac-4de0-a297-b43667da3c25	GET	undefined	/
+20230207	21:18:13	2e3acd59-2c36-4580-ab80-1fe4726e9554	GET	undefined	/css/style.css
+20230207	21:18:22	7ee09c97-b79f-4f8e-b572-1ad74fdcee66	GET	chrome-untrusted://new-tab-page	/
+20230207	21:23:37	8d040252-12a3-4895-8e3e-346065c797f1	GET	undefined	/
+20230207	21:23:37	5a168d27-d2a3-4b72-b50f-6a1c7515b4e4	GET	undefined	/css/style.css
+20230207	21:23:38	c0c1b4eb-8931-45b8-85f9-5cf548c7e4e6	GET	undefined	/
+20230207	21:23:38	7a5964b8-2d65-4ba1-8fc1-da6be43c3ed6	GET	undefined	/css/style.css
+20230207	21:28:03	02e25b9f-536a-4901-baa0-942e593a94c4	GET	undefined	/pipi.html
+20230207	21:28:03	334b1b0c-7db2-4cda-bf90-83c8630aac1b	GET	undefined	/css/style.css
+20230207	21:28:07	49c1b313-e214-4372-8641-706aaf333925	GET	undefined	/pipi.json
+20230207	21:28:07	c04dc7fd-b8e0-4528-a8d2-81dc0994a909	GET	undefined	/css/style.css
+20230207	21:28:16	df11081f-e3f3-4327-bfc3-628ec126703c	GET	undefined	/pipi
+20230207	21:28:16	4d9a238e-7cf6-4ac6-8788-459aa76f6674	GET	undefined	/css/style.css
+20230207	21:28:21	1a35163b-f2e8-475c-976e-0dd8a0f3810f	GET	undefined	/pipi.txt
+20230207	21:28:21	c8fb7204-350f-4514-9870-8ec4ef7e6eae	GET	undefined	/css/style.css
